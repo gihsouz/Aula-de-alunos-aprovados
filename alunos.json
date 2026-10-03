@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "Gustavo",
+        "idade": 18,
+        "curso": "Desenvolvimento de Sistemas",
+        "nota": 6.5
+    },
+    {
+        "id": 2,
+        "nome": "Rafael",
+        "idade": 18,
+        "curso": "Desenvolvimento de Sistemas",
+        "nota": 8.0
+    },
+    {
+        "id": 3,
+        "nome": "Giovanna Souza",
+        "idade":20,
+        "curso": "Desenvolvimento de Sistemas",
+        "nota": 8.0
+    },
+    {
+        "id": 4,
+        "nome": "Ester",
+        "idade": 20,
+        "curso": "Desenvolvimento de Sistemas",
+        "nota": 7.0
+    },
+    {
+        "id": 5,
+        "nome": "Yasmin santos",
+        "idade": 21,
+        "curso": "Sistemas Web",
+        "nota": 4.0
+    }
+]
